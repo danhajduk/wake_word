@@ -3,7 +3,7 @@
   "wake_word": "luna",
   "author": "Zhekch",
   "website": "http://localhost/",
-  "model": "./luna.tflite",
+  "model": "luna.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
